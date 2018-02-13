@@ -23,7 +23,6 @@ site_name: Material for MkDocs
 site_description: A Material Design theme for MkDocs
 site_author: Martin Donath
 site_url: https://squidfunk.github.io/mkdocs-material/
-site_dir: 'site'
 
 # Repository
 repo_name: squidfunk/mkdocs-material
